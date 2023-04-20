@@ -63,11 +63,3 @@ This project can be used to prevent the spread of forgeries and imitations in th
 
 The project involves several key phases, including exploratory data analysis, data augmentation and preprocessing, model training, and evaluation. Baseline convolutional neural network models and more advanced models using transfer learning techniques were created, and the best-performing model was identified based on accuracy. Initial accuracy was 0.66 and best results achieved among 15 CNN models via Transfer Learning VGG19 model with accuracy of 0.81. Overall, this project has significant implications for the art market, and it provides a useful tool for museums, collectors, and dealers in verifying the authenticity of paintings.
 
-
-```python
-!jupyter nbconvert --execute --to markdown README.ipynb
-```
-
-    [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 6061 bytes to README.md
-
