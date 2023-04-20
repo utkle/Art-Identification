@@ -4,10 +4,6 @@ Author: A. Utku Kale
 
 Repository Structure
 
-├── data
-
-├── .gitignore
-
 ├── Final_Notebook.ipynb
 
 ├── README.md
